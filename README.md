@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Chloecureuil
 - 🐍 I’m interested in python
-- 🌱 I’m currently learning python and Godot
+- 🌱 I’m currently learning python
 - 🔥 I’m collaborating on a game
-- 🥔 J'aime les patates
+- 🥔 I like potatoes
 
 <!---
 Chloecureuil/Chloecureuil is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
