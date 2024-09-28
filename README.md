@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Chloecureuil
-- 🐍 I’m interested in python
-- 🌱 I’m currently learning python
+- 🐍 I’m interested in python, C
+- 🌱 I’m currently learning python, C
 - 🔥 I’m collaborating on a game
 - 🥔 I like potatoes
 
